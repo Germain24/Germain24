@@ -19,14 +19,14 @@
 
 
 
-### Glad to see you here!  
+### Content de te voir ici !  
 Je suis un étudiant en double licence mathématique et économie qui adore l'informatique les bases de données et apprendre des choses en rapport avec l'investissement. J'apprend de plus en plus et je partage mes connaissances. Je m'orriente vers des technologies que je considére comme des technologies d'avenir tel que la blockchain ou la tokenisation des actifs.  
   
 
 <br/>  
 
 
-## Rapidfire  
+## Rapidement  
 <table><tr><td valign="top" width="50%">
 
 - 🌱 J'apprends les différents moyens de tokenisation et les moyens de faire une veille informationnelles sur une base de données.  
@@ -50,7 +50,7 @@ Je suis un étudiant en double licence mathématique et économie qui adore l'in
 <br/>  
 
 
-## Languages and Tools  
+## Languages et outils que j'utilise  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="25" />  
