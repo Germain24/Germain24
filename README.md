@@ -1,4 +1,4 @@
-### Hi there 👋
+![](header.png)
 
 - 🔭 I am currently working on creating a database available online for free with the information of all companies on the stock exchange.
 - 🌱 I’m currently learning Python, SQL, JavaScript and C#
