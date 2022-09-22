@@ -20,7 +20,7 @@
 
 
 ### Content de te voir ici !  
-Je suis un étudiant en double licence mathématique et économie qui adore l'informatique les bases de données et apprendre des choses en rapport avec l'investissement. J'apprend de plus en plus et je partage mes connaissances. Je m'orriente vers des technologies que je considére comme des technologies d'avenir tel que la blockchain ou la tokenisation des actifs.  
+Je suis un étudiant en double licence mathématique et économie qui adore l'informatique, la blockchain, les bases de données et apprendre des choses en rapport avec l'investissement. J'apprend de plus en plus et je partage mes connaissances. Je m'orriente vers des technologies que je considére comme des technologies d'avenir tel que la blockchain ou la tokenisation des actifs.  
   
 
 <br/>  
