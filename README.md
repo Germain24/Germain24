@@ -35,7 +35,7 @@ Je suis un étudiant en double licence mathématique et économie qui adore l'in
 - ❓ Demandez moi n'importe quoi en rapport avec l'investissement ou avec la technologie de la blockchain  
   
 
-- ⚡ Fun fact: Peut être que MacDonald fonctionne mieux que mes conseils  
+- ⚡ Je m'amuse souvent avec de grandes bases de données.  
 
 
 </td><td valign="top" width="50%">
