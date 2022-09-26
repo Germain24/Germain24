@@ -29,13 +29,16 @@ Je suis un étudiant en double licence mathématique et économie qui adore l'in
 ## Rapidement  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 J'apprends les différents moyens de tokenisation et les moyens de faire une veille informationnelles sur une base de données.  
+- 🌱 J'aime tout ce qui est en rapport avec l'informatique et l'économie.  
   
 
-- ❓ Demandez moi n'importe quoi en rapport avec l'investissement ou avec la technologie de la blockchain  
+- ❓ En ce moment j'approfondis mes connaissances sur la tokenisation et l'investissement boursier.
   
 
-- ⚡ Je m'amuse souvent avec de grandes bases de données.  
+- ❤️ J'aimerais travailler dans la finance ou l'informatique.
+  
+  
+- ⚡ Mon domaine de prédilection est les bases de données.
 
 
 </td><td valign="top" width="50%">
