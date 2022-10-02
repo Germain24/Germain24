@@ -1,6 +1,6 @@
 ![](header.png)
 
-## Salut 👋, Moi c'est Germain De Sousa  
+## Hi 👋, I am Germain De Sousa 
   
 
 <a href="https://github.com/Germain24" target="_blank">
@@ -19,26 +19,26 @@
 
 
 
-### Content de te voir ici !  
-Je suis un étudiant en double licence mathématique et économie qui adore l'informatique, la blockchain, les bases de données et apprendre des choses en rapport avec l'investissement. J'apprend de plus en plus et je partage mes connaissances. Je m'orriente vers des technologies que je considére comme des technologies d'avenir tel que la blockchain ou la tokenisation des actifs.  
+### Glad to see you here !  
+I am a math and economics double degree student who loves computing, blockchain, databases and learning things related to investing. I learn more and I share my knowledge. I am moving towards technologies that I consider to be technologies of the future such as the blockchain or the tokenization of assets.
   
 
 <br/>  
 
 
-## Rapidement  
+## Quickly
 <table><tr><td valign="top" width="50%">
 
-- 🌱 J'aime tout ce qui est en rapport avec l'informatique et l'économie.  
+- 🌱 I love everything related to computers and economics.
   
 
-- ❓ En ce moment j'approfondis mes connaissances sur la tokenisation et l'investissement boursier.
+- ❓ Right now I'm deepening my knowledge of tokenization and stock market investing.
   
 
-- ❤️ J'aimerais travailler dans la finance ou l'informatique.
+- ❤️ I would like to work in finance or IT.
   
   
-- ⚡ Mon domaine de prédilection est les bases de données.
+- ⚡ My favorite area is databases.
 
 
 </td><td valign="top" width="50%">
@@ -53,7 +53,7 @@ Je suis un étudiant en double licence mathématique et économie qui adore l'in
 <br/>  
 
 
-## Languages et outils que j'utilise  
+## Languages and tools I use 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="25" />  
