@@ -68,4 +68,4 @@
 
 ---
 
-![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=Gladiator07&theme=tokyonight&show_icons=true)
+![Germain's github stats](https://github-readme-stats.vercel.app/api?username=Germain24&theme=tokyonight&show_icons=true)
