@@ -1,93 +1,71 @@
-![](header.png)
+<h1 align="center">Hi 👋, I'm Germain</h1>
+<h3 align="center">I like to train Neural Networks</h3>
 
-## Hi 👋, I am Germain De Sousa 
-  
+![](https://komarev.com/ghpvc/?username=Germain)
 
-<a href="https://github.com/Germain24" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/GermainDeSoussa" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/germain-de-sousa-75b430212" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/germaindesousa" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-  
+#### Welcome to my Profile. This is an overview of all the work I did and I'm planning to do.
+
+---
+## Contact Me
+
+***Hit me up on any platform if you want to have a talk!***
+
+<a href="mailto:germain.desousa02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="twitter"></a>
+<a href="https://www.linkedin.com/in/germain-de-sousa-75b430212/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+<a href="https://twitter.com/GermainDeSoussa" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
+<a href="https://www.kaggle.com/germaindesousa" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"></a>
 
 
+---
+## About Me
+- 🔭 I am into ML/DL, CV, NLP
+- 🌱 I’m currently learning JAX/FLAX and MLOPS
+- 👯 I’m looking to collaborate on Kaggle Competitions
+- 💪 I recently started contributing to [HuggingFace 🤗](https://github.com/huggingface)
+- ⚡ Fun fact: I love to participate in Machine Learning competitions and I'm a **Kaggle Competition Expert** and highly active [there](https://www.kaggle.com/atharvaingle)
+---
 
-### Glad to see you here !  
-I am a math and economics double degree student who loves computing, blockchain, databases and learning things related to investing. I learn more and I share my knowledge. I am moving towards technologies that I consider to be technologies of the future such as the blockchain or the tokenization of assets.
-  
+## 🛠 My Projects
 
-<br/>  
+*Click on the project name to directly go to it's GitHub Repository and click demo app to see a live demo of the project*
 
+- **[Text to Image Synthesis using Attentional GANs](https://github.com/Gladiator07/Text-to-image-synthesis-with-AttnGAN)** - A PyTorch re-implementation of the paper [AttnGAN](https://arxiv.org/abs/1711.10485): Fine-Grained Text to Image Generation with Attentional Generative Adverserial Networks. [[demo app](https://share.streamlit.io/gladiator07/text-to-image-synthesis-with-attngan/main/app.py)]
+- **[Text Summarizer](https://github.com/Gladiator07/Text-Summarizer)** - A transformer based extractive and abstractive text summarizer supporting wide range of input formats. [[demo app](https://huggingface.co/spaces/Gladiator/Text-Summarizer)]
+- **[Healthify](https://github.com/Gladiator07/Healthify)** - a ML based website which predicts the disease based on the symptoms entered by the patient, also supports several disease diagnosis. [[demo app](https://gladiator07-healthify--home-jlmke9.streamlitapp.com/)]
+- **[GPU vs TPU comparison for computer vision](https://github.com/Gladiator07/GPU-vs-TPU)** - compared GPU and TPU for computer vision applications using Google Cloud TPUs and TFRecords data format. [[results](https://wandb.ai/gladiator/GPU-vs-TPU)]
+- **[HARVESTIFY](https://github.com/Gladiator07/Harvestify)** - a ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops. [[demo app](https://harvestify.herokuapp.com/)]
+- **[JARVIS](https://github.com/Gladiator07/JARVIS)** - a simple voice assistant made using Python [[demo video](https://www.youtube.com/watch?v=oKtrHy0ERNA)]
+---
 
-## Quickly
-<table><tr><td valign="top" width="50%">
+## 🏆 Achievements
 
-- 🌱 I love everything related to computers and economics.
-  
+*Click on the competition name to go to it's overview page and click solution + code links to see the approach and source code*
 
-- ❓ Right now I'm deepening my knowledge of tokenization and stock market investing.
-  
+- **[Amazon ML Challenge 2021](https://www.hackerearth.com/login/?next=/challenges/competitive/amazon-ml-challenge/instructions/)** - **12th place** finish among **3200+ teams** across India - [[solution + code](https://github.com/atif-hassan/Competition-code/tree/master/Hackerearth/Amazon%20ML%20Challenge)]
+- **[U.S. Patent Phrase to Phrase Matching (Kaggle)](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)**, identify similar phrases in U.S patents - **top 1% (31/1889)** [[solution](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/discussion/332355)] [[code](https://github.com/Gladiator07/U.S.-Patent-Phrase-to-Phrase-Matching-Kaggle)]
+- **[Bristol-Myers Squibb – Molecular Translation (Kaggle)](https://www.kaggle.com/competitions/bms-molecular-translation/overview)**, translating chemical images to text - **silver medal (50/874)** - [[solution + code](https://www.kaggle.com/competitions/bms-molecular-translation/discussion/243820)]
+- **[Sartorius - Cell Instance Segmentation (Kaggle)](https://www.kaggle.com/c/sartorius-cell-instance-segmentation)**, detecting single neuronal cells in microscopy images - **bronze medal (117/1505)** - [[code](https://github.com/Gladiator07/Sartorius-Neuronal-Cell-Segmentation-Kaggle)]
+- **[Happywhale - Whale and Dolphin Identification (Kaggle)](https://www.kaggle.com/competitions/happy-whale-and-dolphin)** - **bronze medal (132/1588)**
 
-- ❤️ I would like to work in finance or IT.
-  
-  
-- ⚡ My favorite area is databases.
+---
+## 📝 Open-Source Contributions
+- Fixed an example script on [HuggingFace 🤗 transformers](https://github.com/huggingface/transformers) repository for XLA devices - **[[PR](https://github.com/huggingface/transformers/pull/18676)]**
+- Made the experiment trackers to launch only on main process in distributed setups on [🤗 Accelerate](https://github.com/huggingface/accelerate) library - **[[PR](https://github.com/huggingface/accelerate/pull/642)]**
+- Fixed several examples and removed the check for main process after fixing the tracker's initialization on all processes on [🤗 Accelerate](https://github.com/huggingface/accelerate) library - **[[PR](https://github.com/huggingface/accelerate/pull/643)]**
+- Update several 🤗 transformers `no_trainer` scripts leveraging 🤗 [Accelerate](https://github.com/huggingface/accelerate) to remove the check for `is_main_process` while initiating trackers by `accelerator.init_trackers()` as this issue was fixed by me in this [PR](https://github.com/huggingface/accelerate/pull/642) - **[[PR](https://github.com/huggingface/transformers/pull/18706)]**
+- Contributed a report to [Weights & Biases](https://wandb.ai/site) showcasing the integration of [MONAI](https://github.com/Project-MONAI/MONAI) and W&B - **[[PR](https://github.com/wandb/examples/pull/304)]**
 
+---
+## ✍️ Blogs
+- **[Managing and Tracking ML Experiments](https://jarvislabs.ai/blogs/ml-tracking/)** - An extensive blog where I've shared my experience and ways to track and manage machine learning experiments effectively for research projects and Kaggle competitions (w/ Weights & Biases and Hydra)
+- **[HuggingFace is all you need for NLP and beyond](https://jarvislabs.ai/blogs/hf-getting-started/)** - A tutorial/blog on [HuggingFace](https://huggingface.co/) ecosystem and how to use and customize 🤗 `datasets` and 🤗`Trainer` for all of your NLP problems.
+- **[3D Segmentation with MONAI and PyTorch Supercharged by Weights & Biases](https://wandb.ai/gladiator/MONAI_Spleen_3D_Segmentation/reports/3D-Segmentation-with-MONAI-and-PyTorch-Supercharged-by-Weights-Biases---VmlldzoyNDgxNDMz)** - A W&B report showcasing the integration of MONAI and W&B for medical imaging. Shows how to efficiently track experiments, perform error analysis, artifacts versioning and much more using the rich suite of W&B features.
+---
 
-</td><td valign="top" width="50%">
+## 💪 Currently working on
+- **[Feedback Prize - English Language Learning](https://www.kaggle.com/competitions/feedback-prize-english-language-learning)** - Evaluating language knowledge of ELL students from grades 8-12.
+- **[Novozymes Enzyme Stability Prediction](https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction)** - Help identify the thermostable mutations in enzymes.
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+---
 
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and tools I use 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Germain24&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Germain24&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Germain24&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=Gladiator07&theme=tokyonight&show_icons=true)
