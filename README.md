@@ -26,12 +26,10 @@
 
 *Click on the project name to directly go to it's GitHub Repository and click demo app to see a live demo of the project*
 
-- **[Text to Image Synthesis using Attentional GANs](https://github.com/Gladiator07/Text-to-image-synthesis-with-AttnGAN)** - A PyTorch re-implementation of the paper [AttnGAN](https://arxiv.org/abs/1711.10485): Fine-Grained Text to Image Generation with Attentional Generative Adverserial Networks. [[demo app](https://share.streamlit.io/gladiator07/text-to-image-synthesis-with-attngan/main/app.py)]
+- **[Warren Buffet strategy]([https://github.com/Gladiator07/Text-to-image-synthesis-with-AttnGAN](https://github.com/Germain24/Warren-Buffet-s-strategy))** - We will analyse Warren Buffet strategy to invest in the stock market and create a portfolio based on his strategy.
 ---
 
 ## 🏆 Achievements
-
-*Click on the competition name to go to it's overview page and click solution + code links to see the approach and source code*
 
 - A good start
 
