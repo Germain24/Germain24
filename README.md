@@ -30,7 +30,7 @@
 
 - **[Warren Buffet strategy](https://github.com/Germain24/Warren-Buffet-s-strategy/tree/main/English)** - We will analyse Warren Buffet strategy to invest in the stock market and create a portfolio based on his strategy.
 
-### :🇫🇷: 󠁧󠁢󠁥󠁮Français
+### 󠁧󠁢󠁥󠁮Français
 
 - **[Warren Buffet strategy](https://github.com/Germain24/Warren-Buffet-s-strategy/tree/main/Francais)** - We will analyse Warren Buffet strategy to invest in the stock market and create a portfolio based on his strategy.
 
