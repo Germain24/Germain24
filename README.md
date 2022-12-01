@@ -24,7 +24,7 @@
 
 ## 🛠 My Projects
 
-*Click on the project name to directly go to it's GitHub Repository and click demo app to see a live demo of the project*
+*Click on the project name to directly go to it's GitHub Repository*
 
 ### 󠁧󠁢English
 
