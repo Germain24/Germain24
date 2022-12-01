@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Germain)
 
 #### Welcome to my Profile. This is an overview of all the work I did and I'm planning to do.
-:blush:
+:france:
 ---
 ## Contact Me
 
