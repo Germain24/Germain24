@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Germain)
 
 #### Welcome to my Profile. This is an overview of all the work I did and I'm planning to do.
-:france:
+
 ---
 ## Contact Me
 
@@ -30,7 +30,7 @@
 
 - **[Warren Buffet strategy](https://github.com/Germain24/Warren-Buffet-s-strategy/tree/main/English)** - We will analyse Warren Buffet strategy to invest in the stock market and create a portfolio based on his strategy.
 
-### 󠁧󠁢󠁥󠁮Français
+### :fr: 󠁧󠁢󠁥󠁮Français
 
 - **[Warren Buffet strategy](https://github.com/Germain24/Warren-Buffet-s-strategy/tree/main/Francais)** - We will analyse Warren Buffet strategy to invest in the stock market and create a portfolio based on his strategy.
 
