@@ -26,13 +26,13 @@
 
 *Click on the project name to directly go to it's GitHub Repository and click demo app to see a live demo of the project*
 
-### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
+### 󠁧󠁢English
 
-- **[Warren Buffet strategy](https://github.com/Germain24/Warren-Buffet-s-strategy)** - We will analyse Warren Buffet strategy to invest in the stock market and create a portfolio based on his strategy.
+- **[Warren Buffet strategy](https://github.com/Germain24/Warren-Buffet-s-strategy/tree/main/English)** - We will analyse Warren Buffet strategy to invest in the stock market and create a portfolio based on his strategy.
 
-### 🇫🇷󠁧󠁢󠁥󠁮󠁧󠁿 Français
+### 󠁧󠁢󠁥󠁮Français
 
-- **[Warren Buffet strategy](https://github.com/Germain24/Warren-Buffet-s-strategy)** - We will analyse Warren Buffet strategy to invest in the stock market and create a portfolio based on his strategy.
+- **[Warren Buffet strategy](https://github.com/Germain24/Warren-Buffet-s-strategy/tree/main/Francais)** - We will analyse Warren Buffet strategy to invest in the stock market and create a portfolio based on his strategy.
 
 ---
 
