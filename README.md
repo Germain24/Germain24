@@ -28,11 +28,11 @@
 
 ### 󠁧󠁢English
 
-- **[Warren Buffet strategy](https://github.com/Germain24/Warren-Buffet-s-strategy/tree/main/English)** - We will analyse Warren Buffet strategy to invest in the stock market and create a portfolio based on his strategy.
+- **[Portfolio Backtest](https://github.com/Germain24/Warren-Buffet-s-strategy/tree/main/English)** - We are going to make a program that simulates a portfolio from a start date, an end date and a composition of actions.
 
 ### 󠁧󠁢󠁥󠁮Français
 
-- **[Warren Buffet strategy](https://github.com/Germain24/Warren-Buffet-s-strategy/tree/main/Francais)** - Nous analyserons la stratégie de Warren Buffett pour investir en bourse et créerons un portefeuille basé sur sa stratégie.
+- **[Back test de portefeuille](https://github.com/Germain24/Warren-Buffet-s-strategy/tree/main/Francais)** - Nous allons faire un programme qui simule un portefeuille à partir d'une date de départ, de fin et d'une composition d'actions.
 
 ---
 
